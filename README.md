@@ -9,7 +9,7 @@ To run the Jupyter notebook:
 
 To run the Python file:
   1) Download board_games.csv and predictiveModel.py and place them within the same folder.
-  2) Run these install statements within a terminal:
+  2) Run these install statements within a terminal:  
        i) pip install pandas  
        ii) pip install numpy  
        iii) pip install scikit-learn  
