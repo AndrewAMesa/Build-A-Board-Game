@@ -10,8 +10,8 @@ To run the Jupyter notebook:
 To run the Python file:
   1) Download board_games.csv and predictiveModel.py and place them within the same folder.
   2) Run these install statements within a terminal:
-       i) pip install pandas <n>
-       ii) pip install numpy
-       iii) pip install scikit-learn
-       iv) pip install prettytable
+       i) pip install pandas  
+       ii) pip install numpy  
+       iii) pip install scikit-learn  
+       iv) pip install prettytable  
   3) Run the python file in the terminal with "python predictiveModel.py"
